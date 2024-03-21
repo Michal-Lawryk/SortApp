@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="hint">Wprowadź liczby do posortowania</string>
+    <string name="rb_belkowe">Bąbelkowe</string>
+    <string name="rb_przez_wstawianie">Przez wstawianie</string>
+    <string name="button">Sortuj</string>
+    <string name="bubble_sort_description">Polega na porównywaniu dwóch kolejnych elementów i zamianie ich kolejności, jeżeli zaburza ona porządek, w jakim się sortuje tablicę. Sortowanie kończy się, gdy podczas kolejnego przejścia nie dokonano żadnej zmiany.</string>
+    <string name="inster_sort_description">Jeden z najprostszych algorytmów sortowania, którego zasada działania odzwierciedla sposób w jaki ludzie ustawiają karty – kolejne elementy wejściowe są ustawiane na odpowiednie miejsca docelowe.</string>
+</resources>
